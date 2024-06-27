@@ -1,2 +1,1 @@
-# PROTFOLIO
-This is my first project on GitHub
+# PROTFOLIO Website using HTML and CSS  
